@@ -17,10 +17,10 @@ Request file syntax:
 - url: url of the request (in express.js format)
 - exec: is executed when a request is sent (parameters from express.js)
 ### RequestLoader (request/loader.js)
-RequestLoader loads all .js-files from the folder dynamically when the program is started.\
+RequestLoader loads all .js-files from the folder dynamically when the program is started.
 ### RequestType (request/type.js)
 An enum file containing supported request types.
 ### config.json
 Configuration file for the API.\
-Fields\
+Fields
 - port: port for the API
