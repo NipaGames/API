@@ -1,4 +1,4 @@
-### NipaGames REST API
+# NipaGames REST API
 ## What is it?
 This API is used for the backend in my website (https://nipagames.com/).
 It is hosted in https://api.nipagames.repl.co/ (yes, free hosting = good)
